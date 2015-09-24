@@ -13,4 +13,8 @@ http://fastml.com/the-secret-of-the-big-guys/
 https://github.com/zygmuntz/the-secret-of-the-big-guys
 
 http://arxiv.org/pdf/1404.3606v2.pdf
+
+
+Actually also two layer:
+http://www.cs.utoronto.ca/~kriz/conv-cifar10-aug2010.pdf
 ~~~
