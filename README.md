@@ -12,6 +12,9 @@ https://github.com/jhjin/kmeans-learning-torch
 http://fastml.com/the-secret-of-the-big-guys/
 https://github.com/zygmuntz/the-secret-of-the-big-guys
 
+kmeans filters
+http://www.andrew.cmu.edu/user/hgifford/projects/k_means.pdf
+
 http://arxiv.org/pdf/1404.3606v2.pdf
 
 
