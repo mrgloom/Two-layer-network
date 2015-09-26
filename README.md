@@ -4,10 +4,12 @@ Various configurations of two layer networks.
 To look at:
 ~~~
 
+"What is the Best Multi-Stage Architecture for Object Recognition?"
 http://yann.lecun.com/exdb/publis/pdf/jarrett-iccv-09.pdf
-http://cs.nyu.edu/~koray/publis/jarrett-iccv-09.pdf
 
+"An Analysis of Single-Layer Networks in Unsupervised Feature Learning"
 http://www.cs.stanford.edu/~acoates/papers/CoatesLeeNg_nips2010_dlwkshp_singlelayer.pdf
+code:
 https://github.com/jhjin/kmeans-learning-torch
 http://fastml.com/the-secret-of-the-big-guys/
 https://github.com/zygmuntz/the-secret-of-the-big-guys
