@@ -6,6 +6,7 @@ To look at:
 
 "What is the Best Multi-Stage Architecture for Object Recognition?"
 http://yann.lecun.com/exdb/publis/pdf/jarrett-iccv-09.pdf
+http://cs.nyu.edu/~koray/publis/code/randomc101.tar.gz
 
 "An Analysis of Single-Layer Networks in Unsupervised Feature Learning"
 http://www.cs.stanford.edu/~acoates/papers/CoatesLeeNg_nips2010_dlwkshp_singlelayer.pdf
@@ -14,9 +15,14 @@ https://github.com/jhjin/kmeans-learning-torch
 http://fastml.com/the-secret-of-the-big-guys/
 https://github.com/zygmuntz/the-secret-of-the-big-guys
 
-kmeans filters
+"Web-Scale K-Means Clustering"
+http://www.eecs.tufts.edu/~dsculley/papers/fastkmeans.pdf
+http://stackoverflow.com/questions/21447351/minibatchkmeans-parameters
+
+"Hierarchical k-Means for Unsupervised Learning"
 http://www.andrew.cmu.edu/user/hgifford/projects/k_means.pdf
 
+"PCANet: A Simple Deep Learning Baseline for Image Classification?"
 http://arxiv.org/pdf/1404.3606v2.pdf
 
 
