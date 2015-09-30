@@ -31,9 +31,9 @@ http://www.cs.utoronto.ca/~kriz/conv-cifar10-aug2010.pdf
 ~~~
 
 
-Title of the paper | URL | Acc
------------------- | --- | ---
-An Analysis of Single-Layer Networks in Unsupervised Feature Learning|[link](http://www.cs.stanford.edu/~acoates/papers/CoatesLeeNg_nips2010_dlwkshp_singlelayer.pdf)|00
-PCANet: A Simple Deep Learning Baseline for Image Classification?|[link](http://arxiv.org/pdf/1404.3606v2.pdf)|00
-What is the Best Multi-Stage Architecture for Object Recognition?|[link](http://yann.lecun.com/exdb/publis/pdf/jarrett-iccv-09.pdf)|00
+Title of the paper | URL | Acc | Code
+------------------ | --- | --- | ---
+An Analysis of Single-Layer Networks in Unsupervised Feature Learning|[link](http://www.cs.stanford.edu/~acoates/papers/CoatesLeeNg_nips2010_dlwkshp_singlelayer.pdf)|00|yes
+PCANet: A Simple Deep Learning Baseline for Image Classification?|[link](http://arxiv.org/pdf/1404.3606v2.pdf)|00|yes
+What is the Best Multi-Stage Architecture for Object Recognition?|[link](http://yann.lecun.com/exdb/publis/pdf/jarrett-iccv-09.pdf)|00|yes
 
