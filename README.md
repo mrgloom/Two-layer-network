@@ -28,6 +28,10 @@ http://arxiv.org/pdf/1404.3606v2.pdf
 
 Actually also two layer:
 http://www.cs.utoronto.ca/~kriz/conv-cifar10-aug2010.pdf
+
+"How far can you get with a modern face recognition test set using only simple features?"
+http://coxlab.org/pdfs/pinto-dicarlo-cox-cvpr-2009-mkl.pdf
+
 ~~~
 
 
